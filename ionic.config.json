@@ -1,0 +1,8 @@
+{
+  "name": "Tesla online banking",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "892ad2f8"
+}
